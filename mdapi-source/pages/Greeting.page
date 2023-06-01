@@ -1,0 +1,8 @@
+<apex:page >
+  <!-- Begin Default Content REMOVE THIS -->
+  <h1>Congratulations</h1>
+  This is a test Page that will be deployed via package.
+  <p> This is an update in the package to test the modification.</p>
+  <p> The package will be installed again with changes.</p>
+  <!-- End Default Content REMOVE THIS -->
+</apex:page>
